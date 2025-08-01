@@ -1,4 +1,4 @@
-# gmira-counter
+# gmira-checker
 
 Check how many times you tweeted "gmira" in the last 30 days.
 
